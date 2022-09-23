@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(46, 44, 44);
+}
+header{
+    background-color: rgb(156, 46, 26);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+}
+footer{
+    background-color: rgb(47, 10, 77);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    margin-top: 5%;
+}
+.container{
+    width:100%;
+    background-color: darkgray;
+    padding-right: 10%;
+    padding-left: 5%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    height: 800px;
+    margin-top: 5%;
+}
+figure{
+    text-align: center;
+    margin-top: 5%;
+}
+.menu{
+    text-align: center;
+    padding-top: 2%;
+}
+.sessao_segunda{
+    background-color: darkorchid;
+}
